@@ -67,4 +67,4 @@ Ten additional neon-punk designs are in preparation and **not confirmed for sale
 
 **Long Lunch — Blue Pitcher and Lemon** is intentionally not promoted here pending review of an apparent mature-content classification. The remaining **24 existing designs** are linked above; this omission is not a deletion from Redbubble.
 
-**Publisher:** THOTSL4YER69 / MAZLABZ only. No connection to MURMUR.
+**Publisher:** THOTSL4YER69 / MAZLABZ.
