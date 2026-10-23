@@ -12,6 +12,8 @@ I build experimental systems that cross the boundary between software and the ph
 - **[Mixdown](https://github.com/thotsl4yer69/mixdown)** — Android feed and media-system experiments involving React Native, Kotlin, native media integration and adaptive ranking. *Active prototype.*
 - **[Pigeonhole](https://github.com/thotsl4yer69/pigeonhole)** — self-hosted streaming and Kodi integration work, supported by related repository and distribution experiments. *Lab project.*
 - **[Myceliyum](https://github.com/thotsl4yer69/Myceliyum)** — mobile fungi and field-mapping experiments. *Lab project.*
+- **[Akari Android](https://github.com/thotsl4yer69/akari-android)** — local-first Kotlin / Jetpack Compose application with Android CI and emulator validation. *App prototype.*
+- **[THOTSL4YER69 Game](https://github.com/thotsl4yer69/thegame)** — playable Phaser / TypeScript game with Android packaging and production-build checks. *Interactive prototype.*
 
 ## Technical surface
 
