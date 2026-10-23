@@ -31,3 +31,18 @@ I build experimental systems that cross the boundary between software and the ph
 I am available for bounded prototype work, technical discovery and systems-integration problems involving AI, software and real-world devices.
 
 [View the MAZLABZ Evidence Ledger](https://mazlabz-evidence-ledger.mazlabz-ai.chatgpt.site) · [Browse repositories](https://github.com/thotsl4yer69?tab=repositories)
+
+## THOTSL4YER69 artwork shop
+
+Original illustrated merch from MAZLABZ: workshop humour, retro tech, offbeat animals and night-road art. Printed to order on Redbubble.
+
+**[Browse the full THOTSL4YER69 Redbubble shop](https://www.redbubble.com/people/ThotSl4yer69/shop)**
+
+- [Measure Twice — Beaver Carpenter T-shirt](https://www.redbubble.com/i/t-shirt/Measure-Twice-Beaver-Carpenter-Illustration-by-ThotSl4yer69/184817399/z5wf) — carpenter and workshop gift.
+- [Soft Reset — Sleepy Opossum T-shirt](https://www.redbubble.com/i/t-shirt/Soft-Reset-Sleepy-Opossum-and-Retro-Computer-by-ThotSl4yer69/184817388/z5wf) — retro computer humour.
+- [No Signal Good View — Moonlit Camping T-shirt](https://www.redbubble.com/i/t-shirt/No-Signal-Good-View-Moonlit-Mountain-Camping-by-ThotSl4yer69/184817411/z5wf) — camping and off-grid artwork.
+- [Solder Club — Raccoon Electronics Hoodie](https://www.redbubble.com/i/hoodie/Solder-Club-Raccoon-Electronics-Workshop-by-ThotSl4yer69/184817513/2j5j) — electronics maker illustration.
+- [Social Battery — Sleepy Bat Sweatshirt](https://www.redbubble.com/i/sweatshirt/Social-Battery-Sleepy-Bat-Illustration-by-ThotSl4yer69/184817428/du6s) — introvert humour.
+- [Pull Over Look Up — Moonlit Camper Tote](https://www.redbubble.com/i/tote-bag/Pull-Over-Look-Up-Moonlit-Camper-and-Mountains-by-ThotSl4yer69/184817808/7prg) — road trip illustration.
+
+These links point to existing Redbubble artwork pages. Product availability and prices are determined by Redbubble at checkout. The separate AFTER HOURS designs are not listed here until their publication is verified.
