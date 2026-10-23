@@ -32,9 +32,13 @@ I am available for bounded prototype work, technical discovery and systems-integ
 
 [View the MAZLABZ Evidence Ledger](https://mazlabz-evidence-ledger.mazlabz-ai.chatgpt.site) · [Browse repositories](https://github.com/thotsl4yer69?tab=repositories)
 
-## THOTSL4YER69 artwork shop
+## THOTSL4YER69 / MAZLABZ illustrated merch
 
-Original illustrated merch from MAZLABZ: workshop humour, retro tech, offbeat animals and night-road art. Printed to order on Redbubble.
+Original graphics for carpenters, makers, programmers, campers, sewists and night owls. Redbubble prints and fulfils each order.
+
+**[Browse the complete 24-product buyer guide →](./SHOP.md)** · **[Visit THOTSL4YER69 on Redbubble →](https://www.redbubble.com/people/ThotSl4yer69/shop)**
+
+*The AFTER HOURS cyberpunk collection is a preview, not yet confirmed available on Redbubble. [Preview it separately](./after-hours/index.html).*
 
 **[Browse the full THOTSL4YER69 Redbubble shop](https://www.redbubble.com/people/ThotSl4yer69/shop)**
 
