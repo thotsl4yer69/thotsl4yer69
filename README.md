@@ -36,7 +36,7 @@ I am available for bounded prototype work, technical discovery and systems-integ
 
 Original graphics for carpenters, makers, programmers, campers, sewists and night owls. Redbubble prints and fulfils each order.
 
-**[Browse the complete 24-product buyer guide →](./SHOP.md)** · **[Visit THOTSL4YER69 on Redbubble →](https://www.redbubble.com/people/ThotSl4yer69/shop)**
+**[OPEN THE THOTSL4YER69 SHOP →](https://thotsl4yer69-shop.vercel.app/)** · **[Browse 24 product links](./SHOP.md)** · **[Official Redbubble store](https://www.redbubble.com/people/ThotSl4yer69/shop)**
 
 *The AFTER HOURS cyberpunk collection is a preview, not yet confirmed available on Redbubble. [Preview it separately](./after-hours/index.html).*
 
