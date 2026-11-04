@@ -2,6 +2,17 @@
 
 Only verified public destinations and actual outbound actions appear here. A sent pitch is not press coverage; a page load by the operator is not audience traffic.
 
+## 2026-11-04 22:04 AEDT — Two qualified distribution / funding contacts
+
+| Action | Verified recipient / programme | Evidence and measurable result |
+| --- | --- | --- |
+| Sent original illustrated-goods/gallery-fit enquiry to **Bendigo Art Collective**; included direct Redbubble links for *Measure Twice* and *Solder Club*; disclosed that physical stall stock is not ready | [Local artist/community gallery](https://www.bendigoartcollective.com.au/artistinfo) · `info@bendigoartcollective.com.au` | [Sent Gmail message](https://mail.google.com/mail/u/?authuser=jack.mazzini91%40gmail.com#all/1a1a63c0675017bb), Gmail ID `1a1a63c0675017bb`; **1 targeted outreach sent**, 0 replies/placements verified |
+| Sent new art-and-technology **Create Lab 2027** project-fit enquiry and requested information-session registration; proposed NFC-linked interactive print experiment, explicitly not a completed release | [Official Create Lab 2027 programme](https://www.bendigoregion.com.au/arts-culture-theatres/create-lab-2027) · `creative@bendigo.vic.gov.au` | [Sent Gmail message](https://mail.google.com/mail/u/?authuser=jack.mazzini91%40gmail.com#all/1a1a63c1085ff938), Gmail ID `1a1a63c1085ff938`; **1 targeted programme enquiry sent**, 0 replies/grants verified |
+
+- Create Lab 2027 published deadline: **14 December 2026**, up to **A$4,000** (competitive, not awarded). The official guidelines require a new experimental work, artist background, supporting samples, budget and potential insurance. An enquiry is **not** a grant application.
+- No marketplace account was modified; this run focused on independent TS69 audience/curator distribution, distinct from Marketplace Sales & Buyer Acquisition.
+- Attributable external actions this run: **2 sent, distinct recipients**. Verified outside visitors: **0 observed / analytics unavailable**. New orders and revenue: **not verified**.
+
 ## 2026-11-04 — Corrections and audience work
 
 | Action | Evidence / destination | Verified result |
