@@ -1,0 +1,27 @@
+name: TS69 CutPlan tests
+
+on:
+  push:
+    paths:
+      - 'TS69_TOOLS/cutplan/**'
+      - '.github/workflows/ts69-cutplan.yml'
+  pull_request:
+    paths:
+      - 'TS69_TOOLS/cutplan/**'
+      - '.github/workflows/ts69-cutplan.yml'
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Unit tests
+        working-directory: TS69_TOOLS/cutplan
+        run: python -m unittest -v
+      - name: Smoke test CLI
+        working-directory: TS69_TOOLS/cutplan
+        run: python cutplan.py --stock 2400 --kerf 3.2 --csv cuts.csv --json
