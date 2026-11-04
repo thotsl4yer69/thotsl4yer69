@@ -1,4 +1,4 @@
-# THOTSL4YER69 / MAZLABZ — Shop the collection
+# THOTSL4YER69 INDUSTRIES — Shop the collection
 
 **Original illustrations for makers, night owls, road-trippers and oddballs.** Explore specific products on Redbubble, where orders are printed and fulfilled by Redbubble.
 
@@ -80,4 +80,4 @@ A separate ten-design print-asset pack has been prepared and **is not confirmed 
 
 **Long Lunch — Blue Pitcher and Lemon** is intentionally not promoted here pending review of an apparent mature-content classification. The remaining **28 existing designs** are linked above; the public shop has 29 designs in total. This omission is not a deletion from Redbubble.
 
-**Publisher:** THOTSL4YER69 / MAZLABZ.
+**Publisher:** THOTSL4YER69 INDUSTRIES.
