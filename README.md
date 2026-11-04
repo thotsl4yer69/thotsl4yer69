@@ -8,9 +8,9 @@ I build experimental systems that cross the boundary between software and the ph
 
 **[GOOD TROUBLE. MADE REAL. — Enter THOTSL4YER69 INDUSTRIES](https://thotslayer69-industries.vercel.app/)**
 
-Original games, graphics and experiments that refuse to blend in. **TS69** is the independent entertainment and merchandise identity; MAZLABZ below remains the separate technical portfolio.
+Original illustrated goods and independent creative experiments. **TS69** is a separate creative identity, not the MAZLABZ technical portfolio. Game prototypes remain under test and are not advertised as playable.
 
-[**THE BRAND**](https://thotslayer69-industries.vercel.app/) · [**SHOP AFTER HOURS**](https://thotsl4yer69-shop.vercel.app/) · [**PLAY JUST THE TIP**](https://ts69-just-the-tip.vercel.app/) · [**PRESS KIT**](./TS69_PRESS_KIT.md)
+[**THE BRAND**](https://thotslayer69-industries.vercel.app/) · [**SHOP AFTER HOURS**](https://thotsl4yer69-shop.vercel.app/) · [**PRESS KIT**](./TS69_PRESS_KIT.md)
 
 ---
 
@@ -23,7 +23,6 @@ Original games, graphics and experiments that refuse to blend in. **TS69** is th
 - **[Pigeonhole](https://github.com/thotsl4yer69/pigeonhole)** — self-hosted streaming and Kodi integration work, supported by related repository and distribution experiments. *Lab project.*
 - **[Myceliyum](https://github.com/thotsl4yer69/Myceliyum)** — mobile fungi and field-mapping experiments. *Lab project.*
 - **[Akari Android](https://github.com/thotsl4yer69/akari-android)** — local-first Kotlin / Jetpack Compose application with Android CI and emulator validation. *App prototype.*
-- **[THOTSL4YER69 Game](https://github.com/thotsl4yer69/thegame)** — playable Phaser / TypeScript game with Android packaging and production-build checks. *Interactive prototype.*
 
 ## Technical surface
 
@@ -42,13 +41,13 @@ I am available for bounded prototype work, technical discovery and systems-integ
 
 [View the MAZLABZ Evidence Ledger](https://mazlabz-evidence-ledger.mazlabz-ai.chatgpt.site) · [Browse repositories](https://github.com/thotsl4yer69?tab=repositories)
 
-## THOTSL4YER69 / MAZLABZ illustrated merch
+## AFTER HOURS / TS69 illustrated goods
 
 Original graphics for carpenters, makers, programmers, campers, sewists and night owls. Redbubble prints and fulfils each order.
 
 **[OPEN THE THOTSL4YER69 SHOP →](https://thotsl4yer69-shop.vercel.app/)** · **[Browse 28 live product links](./SHOP.md)** · **[Official Redbubble store](https://www.redbubble.com/people/ThotSl4yer69/shop)**
 
-*Four neon graphics are now live on Redbubble; the separate ten-design AFTER HOURS print-asset pack is still a [preview](./after-hours/index.html), not a published collection.*
+*The live collection has 28 individually linked Redbubble designs. A separate ten-design print-asset pack is still a [preview](./after-hours/index.html), not a published collection.*
 
 **Shop by interest:** [Neon & cyberpunk](https://thotsl4yer69-shop.vercel.app/?collection=neon) · [Makers & tech](https://thotsl4yer69-shop.vercel.app/?collection=maker) · [Camping & road trips](https://thotsl4yer69-shop.vercel.app/?collection=outdoors) · [Creatures & craft](https://thotsl4yer69-shop.vercel.app/?collection=creatures) · [Art & home](https://thotsl4yer69-shop.vercel.app/?collection=home)
 
@@ -68,4 +67,4 @@ Original graphics for carpenters, makers, programmers, campers, sewists and nigh
 - [**Tech Support Girlfriend — Neon Headset T-shirt**](https://www.redbubble.com/i/t-shirt/Tech-Support-Girlfriend-Neon-Headset-Graphic-by-ThotSl4yer69/185046673/z5wf) — bright headset artwork for tech and gaming fans.
 - [**Low Battery, High Standards — Neon Graphic T-shirt**](https://www.redbubble.com/i/t-shirt/Low-Battery-High-Standards-Neon-Punk-Graphic-by-ThotSl4yer69/185046667/z5wf) — pink-and-yellow battery graphic with an attitude.
 
-These links point to existing Redbubble artwork pages. Product availability and prices are determined by Redbubble at checkout. Only the four verified neon designs above are listed; the separate ten-design preview remains unpublished.
+These links point to existing Redbubble artwork pages. Product availability and prices are determined by Redbubble at checkout. The four neon designs above are part of the 28 live product links; the separate ten-design preview remains unpublished.
