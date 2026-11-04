@@ -36,9 +36,9 @@ I am available for bounded prototype work, technical discovery and systems-integ
 
 Original graphics for carpenters, makers, programmers, campers, sewists and night owls. Redbubble prints and fulfils each order.
 
-**[OPEN THE THOTSL4YER69 SHOP →](https://thotsl4yer69-shop.vercel.app/)** · **[Browse 24 product links](./SHOP.md)** · **[Official Redbubble store](https://www.redbubble.com/people/ThotSl4yer69/shop)**
+**[OPEN THE THOTSL4YER69 SHOP →](https://thotsl4yer69-shop.vercel.app/)** · **[Browse 28 live product links](./SHOP.md)** · **[Official Redbubble store](https://www.redbubble.com/people/ThotSl4yer69/shop)**
 
-*The AFTER HOURS cyberpunk collection is a preview, not yet confirmed available on Redbubble. [Preview it separately](./after-hours/index.html).*
+*Four neon graphics are now live on Redbubble; the separate ten-design AFTER HOURS print-asset pack is still a [preview](./after-hours/index.html), not a published collection.*
 
 **[Browse the full THOTSL4YER69 Redbubble shop](https://www.redbubble.com/people/ThotSl4yer69/shop)**
 
@@ -49,4 +49,11 @@ Original graphics for carpenters, makers, programmers, campers, sewists and nigh
 - [Social Battery — Sleepy Bat Sweatshirt](https://www.redbubble.com/i/sweatshirt/Social-Battery-Sleepy-Bat-Illustration-by-ThotSl4yer69/184817428/du6s) — introvert humour.
 - [Pull Over Look Up — Moonlit Camper Tote](https://www.redbubble.com/i/tote-bag/Pull-Over-Look-Up-Moonlit-Camper-and-Mountains-by-ThotSl4yer69/184817808/7prg) — road trip illustration.
 
-These links point to existing Redbubble artwork pages. Product availability and prices are determined by Redbubble at checkout. The separate AFTER HOURS designs are not listed here until their publication is verified.
+**Newly verified neon designs**
+
+- [**More Bands, Less Plans — Retro Cassette T-shirt**](https://www.redbubble.com/i/t-shirt/More-Bands-Less-Plans-Neon-Cassette-Graphic-by-ThotSl4yer69/185046682/z5wf) — acid-green retro audio design for concert regulars and mixtape lovers.
+- [**Anti Social Protocol Online — Neon Punk T-shirt**](https://www.redbubble.com/i/t-shirt/Anti-Social-Protocol-Online-Neon-Punk-Graphic-by-ThotSl4yer69/185046681/z5wf) — purple cyberpunk graphic for introverts and gamers.
+- [**Tech Support Girlfriend — Neon Headset T-shirt**](https://www.redbubble.com/i/t-shirt/Tech-Support-Girlfriend-Neon-Headset-Graphic-by-ThotSl4yer69/185046673/z5wf) — bright headset artwork for tech and gaming fans.
+- [**Low Battery, High Standards — Neon Graphic T-shirt**](https://www.redbubble.com/i/t-shirt/Low-Battery-High-Standards-Neon-Punk-Graphic-by-ThotSl4yer69/185046667/z5wf) — pink-and-yellow battery graphic with an attitude.
+
+These links point to existing Redbubble artwork pages. Product availability and prices are determined by Redbubble at checkout. Only the four verified neon designs above are listed; the separate ten-design preview remains unpublished.
