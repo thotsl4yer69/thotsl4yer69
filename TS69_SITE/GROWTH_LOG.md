@@ -1,5 +1,15 @@
 # TS69 — Distribution and evidence ledger
 
+## 2026-11-04 — Original maker software published (no email outreach)
+
+| Public action | Evidence | Measured result |
+| --- | --- | --- |
+| Released **CutPlan**, a kerf-aware, CSV-driven one-dimensional cutting planner for carpenters and workshop makers, as publicly accessible source, sample input, documentation and tests | [CutPlan source and instructions](https://github.com/thotsl4yer69/thotsl4yer69/tree/main/TS69_TOOLS/cutplan) · [GitHub Actions workflow](https://github.com/thotsl4yer69/thotsl4yer69/blob/main/.github/workflows/ts69-cutplan.yml) | **1 original software utility publicly released**; **10/10 local automated tests passed**; example input yields 9 pieces across 3 boards with 3.2 mm kerf. Remote CI outcome not yet verified. External users, downloads, orders and revenue **not verified**. |
+
+- Distribution channel: public GitHub repository, for maker/developer audiences. No marketplace product or sale was created; this is free software, not a claim of commercial conversion.
+- Owner sender correction: two earlier TS69 enquiries were sent from `jack.mazzini91@gmail.com` (personal account), signed Marcus Chen. They cannot be recalled after Gmail's Undo Send period. The TS69 automation was amended to **prohibit personal/MAZLABZ email senders** and require a confirmed dedicated TS69 sender before any further email outreach. **No emails sent this run.**
+- Separate Marketplace Sales & Buyer Acquisition task owns generic marketplace listing edits; this run did not duplicate them.
+
 Only verified public destinations and actual outbound actions appear here. A sent pitch is not press coverage; a page load by the operator is not audience traffic.
 
 ## 2026-11-04 22:04 AEDT — Two qualified distribution / funding contacts
