@@ -4,7 +4,7 @@
 
 **[Browse all available Redbubble products](https://www.redbubble.com/people/ThotSl4yer69/shop)**
 
-*These are links to existing Redbubble product pages, not independent checkout pages. Product options, prices and checkout availability are determined by Redbubble. New AFTER HOURS art is a separate unpublished preview.*
+*These are verified public Redbubble product links, not independent checkout pages. Prices, product options and checkout availability are determined by Redbubble. Four neon designs are live; a separate 10-design development pack is not yet published.*
 
 ## Start with these six
 
@@ -59,12 +59,21 @@ Illustrations, patterns and quieter pieces for your space.
 - [**Celestial Greenhouse – Moon and Botanical Arch**](https://www.redbubble.com/i/tapestry/Celestial-Greenhouse-Moon-and-Botanical-Arch-by-ThotSl4yer69/184817685/g6gv) — A moonlit greenhouse-inspired botanical arch brings plants and night-sky imagery together. A dreamy piece for indoor gardens, plant lovers and atmospheric rooms.
 - [**Night Orchard – Celestial Moth and Botanical Flowers**](https://www.redbubble.com/i/throw-blanket/Night-Orchard-Celestial-Moth-and-Botanical-Flowers-by-ThotSl4yer69/184817659/vzy2) — A celestial moth settles into an illustrated night garden of botanical flowers. For lovers of nocturnal nature, moody florals and unusual insect art.
 
-## AFTER HOURS (collection preview only)
+## AFTER HOURS — Live neon designs
 
-Ten additional neon-punk designs are in preparation and **not confirmed for sale**. [See the separate AFTER HOURS preview](./after-hours/index.html). Do not treat previews as buyable Redbubble listings.
+Bold music, gaming and cyberpunk graphics now available through Redbubble.
+
+- [**More Bands, Less Plans — Retro Cassette T-shirt**](https://www.redbubble.com/i/t-shirt/More-Bands-Less-Plans-Neon-Cassette-Graphic-by-ThotSl4yer69/185046682/z5wf) — acid-green retro audio design for concert regulars and mixtape lovers.
+- [**Anti Social Protocol Online — Neon Punk T-shirt**](https://www.redbubble.com/i/t-shirt/Anti-Social-Protocol-Online-Neon-Punk-Graphic-by-ThotSl4yer69/185046681/z5wf) — purple cyberpunk graphic for introverts and gamers.
+- [**Tech Support Girlfriend — Neon Headset T-shirt**](https://www.redbubble.com/i/t-shirt/Tech-Support-Girlfriend-Neon-Headset-Graphic-by-ThotSl4yer69/185046673/z5wf) — bright headset artwork for tech and gaming fans.
+- [**Low Battery, High Standards — Neon Graphic T-shirt**](https://www.redbubble.com/i/t-shirt/Low-Battery-High-Standards-Neon-Punk-Graphic-by-ThotSl4yer69/185046667/z5wf) — pink-and-yellow battery graphic with an attitude.
+
+## Additional artwork — Preview only
+
+A separate ten-design print-asset pack has been prepared and **is not confirmed for sale**. [See the separate AFTER HOURS preview](./after-hours/index.html). Do not treat previews as buyable Redbubble listings.
 
 ## Shop note
 
-**Long Lunch — Blue Pitcher and Lemon** is intentionally not promoted here pending review of an apparent mature-content classification. The remaining **24 existing designs** are linked above; this omission is not a deletion from Redbubble.
+**Long Lunch — Blue Pitcher and Lemon** is intentionally not promoted here pending review of an apparent mature-content classification. The remaining **28 existing designs** are linked above; the public shop has 29 designs in total. This omission is not a deletion from Redbubble.
 
 **Publisher:** THOTSL4YER69 / MAZLABZ.
