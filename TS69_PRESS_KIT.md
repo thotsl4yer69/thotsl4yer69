@@ -12,6 +12,7 @@
 - **Media page:** https://thotslayer69-industries.vercel.app/press.html
 - **AFTER HOURS shop:** https://thotsl4yer69-shop.vercel.app/
 - **Redbubble storefront:** https://www.redbubble.com/people/ThotSl4yer69/shop
+- **PLAY THE GAME:** https://ts69-just-the-tip.vercel.app/
 - **JUST THE TIP source and status:** https://github.com/thotsl4yer69/thegame
 - **Development account:** https://github.com/thotsl4yer69
 
@@ -32,11 +33,11 @@ TS69 Industries is a **creative brand identity**, not a claim of registered corp
 
 ## Ready-to-use descriptions
 
-**Social profile:** Independent label. Original games, graphic goods & strange experiments. Good trouble, made real. ↓
+**Social profile:** Original playable game at ts69-just-the-tip.vercel.app. Independent label. Original games, graphic goods & strange experiments. Good trouble, made real. ↓
 
 **Store description:** Graphic goods for makers, night owls and people who refuse to blend in. Original designs. Fulfilled via Redbubble.
 
-**Game elevator pitch:** Four acts. One catastrophically chaotic night. JUST THE TIP is an original adult-themed browser brawler built in Phaser and TypeScript.
+**Game elevator pitch:** Play the free browser release at https://ts69-just-the-tip.vercel.app/ — Four acts. One catastrophically chaotic night. JUST THE TIP is an original adult-themed browser brawler built in Phaser and TypeScript.
 
 **Media headline:** TS69 Industries connects an original indie game, irreverent merchandise and experimental builds under one Australian creative brand.
 
