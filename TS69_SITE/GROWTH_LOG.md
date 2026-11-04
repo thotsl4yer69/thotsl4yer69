@@ -1,5 +1,16 @@
 # TS69 — Distribution and evidence ledger
 
+## 2026-11-04 — CutPlan Mobile offline browser edition
+
+| Public action | Exact evidence | Verified result |
+| --- | --- | --- |
+| Published a complete standalone browser-based cutting planner for carpenters and makers, with printable board layout, CSV import/export, offline operation and no network dependencies. Added a direct download and usage instructions to the existing CutPlan project. | [Public HTML source](https://github.com/thotsl4yer69/thotsl4yer69/blob/main/TS69_TOOLS/cutplan/cutplan-mobile.html) · [Downloadable HTML](https://raw.githubusercontent.com/thotsl4yer69/thotsl4yer69/main/TS69_TOOLS/cutplan/cutplan-mobile.html) · [Project README](https://github.com/thotsl4yer69/thotsl4yer69/tree/main/TS69_TOOLS/cutplan) · [release commit](https://github.com/thotsl4yer69/thotsl4yer69/commit/977c5919fac31289f3db34bf4f7f8228913034ca) | **1 new public original software asset**, 7,307-byte HTML file; algorithm sample checked at **3 boards, 9 pieces, 1,091.2 mm offcut**; source read back from GitHub. No browser UI e2e or field validation completed. **0 confirmed outside users, visits, downloads or sales**. |
+
+- Distribution: public GitHub repository and existing CutPlan documentation for maker/developer users; **not a marketplace sale**. No email or unrelated social account used.
+- Privacy: source scanned for known identifying strings; zero matches. Public commit metadata inspected: brand pseudonym, no owner name or personal-email substrings in author/committer addresses. No owner contact details added.
+- Marketplace Sales & Buyer Acquisition remains responsible for marketplace seller-account actions; no overlapping listing edits.
+
+
 ## 2026-11-04 — Original maker software published (no email outreach)
 
 | Public action | Evidence | Measured result |
