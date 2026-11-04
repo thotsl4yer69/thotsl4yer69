@@ -1,4 +1,4 @@
-# Jack Mazzini / MAZLABZ
+# THOTSL4YER69 — Projects and releases
 
 **AI-assisted technical product developer and systems integrator** working across edge AI, embedded hardware, automation, Android and rapid prototyping.
 
