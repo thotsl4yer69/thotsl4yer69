@@ -22,7 +22,7 @@
 .announcement{background:var(--acid);color:#11130d;text-align:center;font-size:11px;font-weight:700;letter-spacing:.14em;padding:9px 15px;text-transform:uppercase}
 .site-nav{position:sticky;top:0;z-index:20;background:rgba(16,16,15,.94);backdrop-filter:blur(18px);border-bottom:1px solid var(--line)}
 .nav-inner{min-height:81px;display:flex;align-items:center;justify-content:space-between;gap:25px}
-.logo{font:700 26px/1 'Space Grotesk',sans-serif;letter-spacing:-.09em;display:flex;flex-direction:column;white-space:nowrap}.logo em{font:700 9px/1.8 'DM Sans',sans-serif;letter-spacing:.28em;color:var(--muted);font-style:normal;margin-top:5px}
+.logo{font:700 26px/1 'Space Grotesk',sans-serif;letter-spacing:-.09em;display:block;white-space:nowrap}.logo em{display:block;font:700 9px/1.8 'DM Sans',sans-serif;letter-spacing:.28em;color:var(--muted);font-style:normal;margin-top:5px}
 .nav-links{display:flex;gap:29px;align-items:center;font-size:12px;font-weight:700;letter-spacing:.05em;text-transform:uppercase}.nav-links a:hover,.text-link:hover{color:var(--acid)}
 .pill-cta{white-space:nowrap;padding:12px 20px;border-radius:60px;border:1px solid var(--acid);background:var(--acid);color:#10100f;font-size:12px;font-weight:700;letter-spacing:.04em}.pill-cta:hover{background:transparent;color:var(--acid)}
 .hero{display:grid;grid-template-columns:1.06fr .94fr;min-height:660px;border-bottom:1px solid var(--line)}
@@ -190,10 +190,10 @@ section.catalog{padding-top:93px;padding-bottom:115px}
 <footer class="wrap site-footer"><div><strong>AFTER HOURS.</strong><p class="footer-copy">THOTSL4YER69 — an independent illustration shop. This page is a curated directory of real Redbubble products; it does not take payment or claim Redbubble affiliation. The full Redbubble artist shop currently has 29 public designs; one has been omitted here pending a listing review.</p></div><div class="footer-links"><a href="#top">Back to top ↑</a><a href="https://www.redbubble.com/people/ThotSl4yer69/shop" target="_blank" rel="noopener noreferrer">Redbubble shop ↗</a></div></footer>
 <script>
 (function(){
-var category='all',search=document.getElementById('search'),cards=[].slice.call(document.querySelectorAll('.product-card')),buttons=[].slice.call(document.querySelectorAll('.filter')),status=document.getElementById('status'),empty=document.getElementById('empty');
+var allowed=['neon','maker','outdoors','creatures','home'],params=new URLSearchParams(location.search),category=allowed.includes(params.get('collection'))?params.get('collection'):'all',search=document.getElementById('search'),cards=[].slice.call(document.querySelectorAll('.product-card')),buttons=[].slice.call(document.querySelectorAll('.filter')),status=document.getElementById('status'),empty=document.getElementById('empty');
 function render(){var term=search.value.trim().toLowerCase(),shown=0;cards.forEach(function(card){var ok=(category==='all'||card.dataset.category===category)&&(!term||card.dataset.search.includes(term));card.hidden=!ok;if(ok)shown++});status.textContent='Showing '+shown+' of '+cards.length+' designs';empty.hidden=shown!==0;buttons.forEach(function(b){var active=b.dataset.filter===category;b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active))});}
-buttons.forEach(function(b){b.addEventListener('click',function(){category=b.dataset.filter;render()})});
-[].slice.call(document.querySelectorAll('[data-jump-category]')).forEach(function(a){a.addEventListener('click',function(){category=a.dataset.jumpCategory;search.value='';render()})});
-search.addEventListener('input',render);
+buttons.forEach(function(b){b.addEventListener('click',function(){category=b.dataset.filter;search.value='';history.replaceState(null,'',category==='all'?location.pathname:location.pathname+'?collection='+encodeURIComponent(category));render()})});
+[].slice.call(document.querySelectorAll('[data-jump-category]')).forEach(function(a){a.addEventListener('click',function(){category=a.dataset.jumpCategory;search.value='';history.replaceState(null,'',location.pathname+'?collection='+encodeURIComponent(category));render()})});
+search.addEventListener('input',render);render();
 })();
 </script></body></html>
