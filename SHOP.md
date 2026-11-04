@@ -2,6 +2,10 @@
 
 **Original illustrations for makers, night owls, road-trippers and oddballs.** Explore specific products on Redbubble, where orders are printed and fulfilled by Redbubble.
 
+**[OPEN THE VISUAL SHOP — 28 verified product previews](https://thotsl4yer69-shop.vercel.app/)**
+
+**Shop by interest:** [Neon & cyberpunk](https://thotsl4yer69-shop.vercel.app/?collection=neon) · [Makers & tech](https://thotsl4yer69-shop.vercel.app/?collection=maker) · [Camping & road trips](https://thotsl4yer69-shop.vercel.app/?collection=outdoors) · [Creatures & craft](https://thotsl4yer69-shop.vercel.app/?collection=creatures) · [Art & home](https://thotsl4yer69-shop.vercel.app/?collection=home)
+
 **[Browse all available Redbubble products](https://www.redbubble.com/people/ThotSl4yer69/shop)**
 
 *These are verified public Redbubble product links, not independent checkout pages. Prices, product options and checkout availability are determined by Redbubble. Four neon designs are live; a separate 10-design development pack is not yet published.*
