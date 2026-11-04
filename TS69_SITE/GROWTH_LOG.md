@@ -12,6 +12,8 @@ Only verified public destinations and actual outbound actions appear here. A sen
 | Corrected two earlier, premature game submissions to Indie Games Plus and Alpha Beta Gamer | [Indie Games Plus contact](https://indiegamesplus.com/contact/) · [Alpha Beta Gamer contact](https://www.alphabetagamer.com/contact-us/) | Two same-thread correction messages sent from connected business Gmail asking editors to hold off coverage; no editorial placement verified |
 | Confirmed two existing Redbubble checkout pages and the artist shop | [Measure Twice](https://www.redbubble.com/i/t-shirt/Measure-Twice-Beaver-Carpenter-Illustration-by-ThotSl4yer69/184817399/z5wf) · [Solder Club](https://www.redbubble.com/i/hoodie/Solder-Club-Raccoon-Electronics-Workshop-by-ThotSl4yer69/184817513/2j5j) · [artist shop](https://www.redbubble.com/people/ThotSl4yer69/shop) | All three pages returned real Redbubble product/shop content; no new seller listing was created |
 
+| Audited current game CI and opened a concrete release-blocking QA issue | [Release gate #4](https://github.com/thotsl4yer69/thegame/issues/4) · [CI workflow](https://github.com/thotsl4yer69/thegame/blob/main/.github/workflows/ci.yml) · [current e2e tests](https://github.com/thotsl4yer69/thegame/blob/main/tests/game.spec.ts) | Existing tests cover first-route interactions and simulated mobile viewport, not four-act completion or a real mobile browser; issue opened with explicit acceptance checks |
+
 ## Release and channel gates
 
 - JUST THE TIP remains an **unverified prototype**. A Vercel build completing is not proof of functional gameplay. Do not invite play, pitch reviewers or claim mobile compatibility until CI, end-to-end gameplay and real mobile-browser checks pass.
