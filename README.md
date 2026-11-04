@@ -10,7 +10,7 @@ I build experimental systems that cross the boundary between software and the ph
 
 Original games, graphics and experiments that refuse to blend in. **TS69** is the independent entertainment and merchandise identity; MAZLABZ below remains the separate technical portfolio.
 
-[**THE BRAND**](https://thotslayer69-industries.vercel.app/) · [**SHOP AFTER HOURS**](https://thotsl4yer69-shop.vercel.app/) · [**JUST THE TIP / GAME**](https://github.com/thotsl4yer69/thegame) · [**PRESS KIT**](./TS69_PRESS_KIT.md)
+[**THE BRAND**](https://thotslayer69-industries.vercel.app/) · [**SHOP AFTER HOURS**](https://thotsl4yer69-shop.vercel.app/) · [**PLAY JUST THE TIP**](https://ts69-just-the-tip.vercel.app/) · [**PRESS KIT**](./TS69_PRESS_KIT.md)
 
 ---
 
