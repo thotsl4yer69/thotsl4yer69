@@ -39,7 +39,7 @@ Original illustrated goods and independent creative experiments. **TS69** is a s
 
 I am available for bounded prototype work, technical discovery and systems-integration problems involving AI, software and real-world devices.
 
-[View the MAZLABZ Evidence Ledger](https://mazlabz-evidence-ledger.mazlabz-ai.chatgpt.site)
+
 [Browse repositories](https://github.com/thotsl4yer69?tab=repositories)
 
 ## AFTER HOURS / TS69 illustrated goods
