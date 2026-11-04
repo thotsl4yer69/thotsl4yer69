@@ -8,7 +8,7 @@ I build experimental systems that cross the boundary between software and the ph
 
 **[GOOD TROUBLE. MADE REAL. — Enter THOTSL4YER69 INDUSTRIES](https://thotslayer69-industries.vercel.app/)**
 
-Original illustrated goods and independent creative experiments. **TS69** is a separate creative identity, not the MAZLABZ technical portfolio. Game prototypes remain under test and are not advertised as playable.
+Original illustrated goods and independent creative experiments. **TS69** is a separate creative identity, not connected to any other brand or technical portfolio. Game prototypes remain under test and are not advertised as playable.
 
 [**THE BRAND**](https://thotslayer69-industries.vercel.app/) · [**SHOP AFTER HOURS**](https://thotsl4yer69-shop.vercel.app/) · [**PRESS KIT**](./TS69_PRESS_KIT.md)
 
@@ -39,7 +39,8 @@ Original illustrated goods and independent creative experiments. **TS69** is a s
 
 I am available for bounded prototype work, technical discovery and systems-integration problems involving AI, software and real-world devices.
 
-[View the MAZLABZ Evidence Ledger](https://mazlabz-evidence-ledger.mazlabz-ai.chatgpt.site) · [Browse repositories](https://github.com/thotsl4yer69?tab=repositories)
+[View the MAZLABZ Evidence Ledger](https://mazlabz-evidence-ledger.mazlabz-ai.chatgpt.site)
+[Browse repositories](https://github.com/thotsl4yer69?tab=repositories)
 
 ## AFTER HOURS / TS69 illustrated goods
 
