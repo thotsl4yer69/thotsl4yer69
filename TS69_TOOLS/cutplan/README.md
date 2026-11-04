@@ -2,6 +2,14 @@
 
 A working, dependency-free Python cut-list calculator for carpenters, workshop makers and anyone cutting repeat lengths from identical stock. It reads dimensions from a CSV and prints a board-by-board cutting plan, including blade kerf and offcuts. No signup, network access or paid service.
 
+## CutPlan Mobile — standalone browser version
+
+[**Download CutPlan Mobile (single HTML file)**](https://raw.githubusercontent.com/thotsl4yer69/thotsl4yer69/main/TS69_TOOLS/cutplan/cutplan-mobile.html) · [View source](./cutplan-mobile.html)
+
+Save the linked HTML file to your device and open it in a modern browser. It runs entirely offline, without installing Python or sending measurements anywhere. Enter a CSV cut list, calculate board allocations, print the cutting plan, or export a board-by-board CSV. This version uses the same best-fit decreasing method and conservative kerf convention as the Python tool.
+
+**Validation:** the browser algorithm was checked against the documented 9-piece sample (3 boards, 1,091.2 mm combined offcut). Browser UI automation and field use have **not** yet been verified; do not interpret the algorithm check as a complete mobile-browser QA pass.
+
 **Run (Python 3.9+):**
 
 ```bash
