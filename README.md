@@ -40,6 +40,8 @@ Original graphics for carpenters, makers, programmers, campers, sewists and nigh
 
 *Four neon graphics are now live on Redbubble; the separate ten-design AFTER HOURS print-asset pack is still a [preview](./after-hours/index.html), not a published collection.*
 
+**Shop by interest:** [Neon & cyberpunk](https://thotsl4yer69-shop.vercel.app/?collection=neon) · [Makers & tech](https://thotsl4yer69-shop.vercel.app/?collection=maker) · [Camping & road trips](https://thotsl4yer69-shop.vercel.app/?collection=outdoors) · [Creatures & craft](https://thotsl4yer69-shop.vercel.app/?collection=creatures) · [Art & home](https://thotsl4yer69-shop.vercel.app/?collection=home)
+
 **[Browse the full THOTSL4YER69 Redbubble shop](https://www.redbubble.com/people/ThotSl4yer69/shop)**
 
 - [Measure Twice — Beaver Carpenter T-shirt](https://www.redbubble.com/i/t-shirt/Measure-Twice-Beaver-Carpenter-Illustration-by-ThotSl4yer69/184817399/z5wf) — carpenter and workshop gift.
