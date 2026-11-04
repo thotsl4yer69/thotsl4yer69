@@ -4,6 +4,16 @@
 
 I build experimental systems that cross the boundary between software and the physical world. My public work is presented with its maturity and provenance intact: prototypes are labelled as prototypes, research forks retain upstream credit, and AI assistance is disclosed.
 
+## TS69 INDUSTRIES / CREATIVE
+
+**[GOOD TROUBLE. MADE REAL. — Enter THOTSL4YER69 INDUSTRIES](https://thotslayer69-industries.vercel.app/)**
+
+Original games, graphics and experiments that refuse to blend in. **TS69** is the independent entertainment and merchandise identity; MAZLABZ below remains the separate technical portfolio.
+
+[**THE BRAND**](https://thotslayer69-industries.vercel.app/) · [**SHOP AFTER HOURS**](https://thotsl4yer69-shop.vercel.app/) · [**JUST THE TIP / GAME**](https://github.com/thotsl4yer69/thegame) · [**PRESS KIT**](./TS69_PRESS_KIT.md)
+
+---
+
 ## Selected systems
 
 - **[Sentient Core](https://github.com/thotsl4yer69/sentient-core)** — privacy-first local AI assistant architecture for NVIDIA Jetson, combining local inference, speech, memory and service orchestration. *Active prototype.*
